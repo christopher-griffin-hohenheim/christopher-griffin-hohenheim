@@ -1,5 +1,10 @@
-## Hi there 👋
+### Boy howdy! Hi there. I'm Christopher Griffin 👋
+## About me:
+Research assistant and doctoral candidate at University Hohenheim Department of Econometrics and Empirical Economics
 
+<h2 align="center"> Christopher Griffin's Stats
+  <br><img src="https://github.com/christopher-griffin-hohenheim/christopher-griffin-hohenheim/blob/master/github-metrics.svg"><br> 
+</h2>
 <!--
 **christopher-griffin-hohenheim/christopher-griffin-hohenheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
